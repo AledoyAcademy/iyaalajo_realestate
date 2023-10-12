@@ -29,7 +29,7 @@
                 <div class="container">
                   <div class="banner-info-bg text-left">
                     <!-- <p>Better living</p> -->
-                    <h5>Adunola grow rich in their sleep</h5>
+                    <h5> Boss Adunola grow rich in their sleep</h5>
                     <a href="#pay" class="btn btn-white" style="border-radius:20px">Read More</a>
                   </div>
                 </div>
